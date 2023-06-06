@@ -78,8 +78,6 @@ async function requestDemoFormData() {
         type: "reference",
       },
       emails: [],
-      createdAt: "2023-05-28T19:54:07.529Z",
-      updatedAt: "2023-05-28T19:54:07.529Z",
     },
   })
 }

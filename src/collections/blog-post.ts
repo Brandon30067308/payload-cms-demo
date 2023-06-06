@@ -9,7 +9,7 @@ import {
   isAdminOrEditorOrPublished,
   isAdminOrPostAuthor,
 } from "../access"
-import afterBlogPostChange from "../hooks/afterBlogPostChange"
+import afterBlogPostChange from "../hooks/after-blog-post-change"
 
 const BlogPost: CollectionConfig = {
   slug: "blog-posts",

@@ -1,4 +1,3 @@
-import padding from "../fields/padding"
 import { Block } from "payload/types"
 
 const Form: Block = {

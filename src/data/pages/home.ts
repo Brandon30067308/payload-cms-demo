@@ -426,7 +426,7 @@ async function homePageData(
                     },
                     {
                       text: "confusion",
-                      "green-text": true,
+                      "emerald-text": true,
                     },
                     {
                       text: ".",

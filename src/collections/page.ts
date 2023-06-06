@@ -7,7 +7,7 @@ import background from "../fields/background"
 import callToAction from "../fields/call-to-action"
 import Content from "../blocks/content"
 import slug from "../fields/slug"
-import afterPageChange from "../hooks/afterPageChange"
+import afterPageChange from "../hooks/after-page-change"
 
 const Page: CollectionConfig = {
   slug: "pages",

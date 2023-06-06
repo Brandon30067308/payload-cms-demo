@@ -18,9 +18,9 @@ import CustomersList from "./customers-list"
 import Banner from "./banner"
 import FaqsList from "./faqs-list"
 import TestimonialsList from "./testimonials-list"
-import maxWidth from "../fields/max-width"
 import Form from "./form"
 import SingleTestimonial from "./single-testimonial"
+import maxWidth from "../fields/max-width"
 
 const Content: Block = {
   slug: "content",

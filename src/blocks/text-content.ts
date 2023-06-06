@@ -2,7 +2,7 @@ import { Block } from "payload/types"
 
 import maxWidth from "../fields/max-width"
 import padding from "../fields/padding"
-import GreenText from "../rich-text/leaves/GreenText"
+import EmeraldText from "../rich-text/leaves/emerald-text"
 
 const TextContent: Block = {
   slug: "text-content",
@@ -17,7 +17,7 @@ const TextContent: Block = {
       type: "richText",
       required: true,
       admin: {
-        leaves: [GreenText],
+        leaves: [EmeraldText],
       },
     },
     {

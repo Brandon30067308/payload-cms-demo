@@ -36,8 +36,6 @@ async function testFormData() {
         type: "reference",
       },
       emails: [],
-      createdAt: "2023-05-26T17:24:49.330Z",
-      updatedAt: "2023-05-26T18:02:06.322Z",
     },
   })
 }

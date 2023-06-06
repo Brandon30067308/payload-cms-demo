@@ -129,7 +129,7 @@ export const isAdminOrEditorOrNotArchived: Access = function ({
 }
 
 export const isAdminFieldLevel: FieldAccess = function ({ req: { user } }) {
-  return !!user?.roles?.includes("admin")
+  return user?.roles?.includes("admin")
 }
 
 export const isAdminOrEditorFieldLevel: FieldAccess = function ({

@@ -2,7 +2,7 @@ import React from "react"
 import { LeafButton } from "payload/components/rich-text"
 
 const Button = () => (
-  <LeafButton format="green-text">
+  <LeafButton format="emerald-text">
     <div
       style={{
         width: "16px",

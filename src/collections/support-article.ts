@@ -5,7 +5,7 @@ import PostMedia from "../blocks/post-media"
 import Separator from "../blocks/separator"
 import slug from "../fields/slug"
 import { isAdminOrAuthor, isAdminOrEditorOrPublished } from "../access"
-import afterSupportArticleChange from "../hooks/afterSupportArticleChange"
+import afterSupportArticleChange from "../hooks/after-support-article-change"
 
 const SupportArticle: CollectionConfig = {
   slug: "support-articles",

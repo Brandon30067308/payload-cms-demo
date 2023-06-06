@@ -318,7 +318,7 @@ async function pricingPageData(
                     },
                     {
                       text: "confusion",
-                      "green-text": true,
+                      "emerald-text": true,
                     },
                     {
                       text: ".",

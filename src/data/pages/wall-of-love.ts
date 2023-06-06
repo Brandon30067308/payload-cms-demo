@@ -149,7 +149,7 @@ async function wallOfLovePageData(
                     },
                     {
                       text: "confusion",
-                      "green-text": true,
+                      "emerald-text": true,
                     },
                     {
                       text: ".",

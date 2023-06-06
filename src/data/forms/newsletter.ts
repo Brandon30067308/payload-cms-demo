@@ -29,8 +29,6 @@ async function newsletterFormData() {
         type: "reference",
       },
       emails: [],
-      createdAt: "2023-05-10T15:20:02.000Z",
-      updatedAt: "2023-05-10T15:20:02.000Z",
     },
   })
 }

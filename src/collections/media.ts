@@ -14,7 +14,7 @@ const Media: CollectionConfig = {
     staticURL: "/media",
     staticDir: "media",
     adminThumbnail: "card",
-    mimeTypes: ["image/*", "video/*", "application/*"],
+    mimeTypes: ["image/*", "video/*"],
   },
   admin: {
     useAsTitle: "filename",
