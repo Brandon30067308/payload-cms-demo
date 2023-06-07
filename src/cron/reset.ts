@@ -367,6 +367,12 @@ async function seedData() {
   )
   await blogPostData(
     blogPostImageId,
+    "Europe Seeks Flourishing Forests Through Restoration",
+    [blogCategoryId2],
+    demoAdminId
+  )
+  await blogPostData(
+    blogPostImageId,
     "Robot Wows With Balance Beam Walking Skills",
     [blogCategoryId2],
     demoAdminId
