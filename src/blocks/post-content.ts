@@ -3,8 +3,8 @@ import { Block } from "payload/types"
 const PostContent: Block = {
   slug: "post-content",
   labels: {
-    singular: "Post Text Content",
-    plural: "Post Text Contents",
+    singular: "Text Content",
+    plural: "Text Contents",
   },
   fields: [
     {

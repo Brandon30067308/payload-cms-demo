@@ -3,8 +3,8 @@ import { Block } from "payload/types"
 const PostMedia: Block = {
   slug: "post-media",
   labels: {
-    singular: "Post Media",
-    plural: "Post Media",
+    singular: "Media",
+    plural: "Media",
   },
   fields: [
     {
