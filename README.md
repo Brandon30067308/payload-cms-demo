@@ -1,4 +1,4 @@
-# tidy-server
+# payload-cms-demo
 
 This project was created using create-payload-app using the blog template.
 
